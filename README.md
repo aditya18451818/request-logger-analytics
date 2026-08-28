@@ -1,13 +1,4 @@
 # 🚀 Request Logger & Analytics Middleware
-<p align="center">
-  <a href="#-features">Features</a> •
-  <a href="#-architecture">Architecture</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-api-endpoints">API</a> •
-  <a href="#-how-it-works">How It Works</a>
-</p>
-
----
 
 ## 📌 Overview
 
