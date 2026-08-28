@@ -1,0 +1,6 @@
+node_modules/
+data/stats.json
+logs/*.log
+.env
+.DS_Store
+npm-debug.log*

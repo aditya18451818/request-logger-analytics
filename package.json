@@ -1,0 +1,35 @@
+{
+  "name": "request-logger-analytics",
+  "version": "1.0.0",
+  "description": "Express app with custom request-logging middleware and a /stats analytics endpoint",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "load-test": "node tests/load-test.js"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "logging",
+    "analytics",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^4.22.2",
+    "mongoose": "^9.9.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "author": ""
+}
